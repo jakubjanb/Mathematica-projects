@@ -1,0 +1,3 @@
+# Mathematica-projects
+All kinds of problems programmed and solved with Mathematica 
+This project is related to an interesting problem in classical mechanics. A mathematical pendulum with a mass of m2 is suspended on a horizontal bar. An attachment point of mass m1 can move along the rod without friction. What is the solution to the equations of motion for this system? This problem can be solved analytically however the solution is nontrivial. The file presents a graphical solution to this problem with the possibility of modifying the initial conditions. This allows for creating an intuition on how such a system would behave.
