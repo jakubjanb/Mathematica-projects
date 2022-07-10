@@ -1,4 +1,4 @@
-# Mathematica-projects
+# Pendulum with a movable attachmen point
 Here you can find all kinds of problems programmed and solved with Mathematica 
 
 In this file, I put various types of programs written in Mathematica, which are used to solve the physics and mathematics problems of interest to me. I also provide a description of the solved problem if someone would like to try to write a program to solve the problem independently.
